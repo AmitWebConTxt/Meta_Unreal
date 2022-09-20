@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.20",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Test_4_20_1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
